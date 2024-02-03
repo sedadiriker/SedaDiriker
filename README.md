@@ -5,7 +5,7 @@
 
 I'm Seda Diriker, a passionate full stack developer  💻.
 
-- :seedling: I’m currently learning HTML,CSS,JavaScript,Python,Bootstrap,Sass,Node.js,MongoDB
+- :seedling: I’m currently learning **HTML,CSS,JavaScript,Python,Bootstrap,Sass,Node.js,MongoDB**
 - :seedling: I’m currently learning about Deep Learning. <!-- - :computer: Most used line of code `git commit -m " "`.-->
 - :speech_balloon: Ask me about anything.
 
@@ -26,8 +26,8 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 ### ⚙️ &nbsp; Git Analytics
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sedadiriker&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedadiriker&theme=dark&layout=compact" width="410" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sedadiriker&theme=dark&show_icons=true" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedadiriker&theme=dark&layout=compact" width="410" /></p>
 
 ------
 
