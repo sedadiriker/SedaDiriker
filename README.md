@@ -25,11 +25,11 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 <hr>
 
-### ⚙️ &nbsp; Git Analytics
- 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sedadiriker&theme=dark&show_icons=true" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedadiriker&theme=dark&layout=compact" width="410" /></p>
-
-------
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sedadiriker)
+
+<hr>
+
+## ***My projects***
+| Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
+|-----------------------------|--------------------------------------|---------------------------|
+| [Checkout-Page](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/checkout-page/index.html) | Bootstrap | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/checkout-page) |
