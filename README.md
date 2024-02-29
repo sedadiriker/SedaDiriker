@@ -34,3 +34,4 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 |-----------------------------|--------------------------------------|---------------------------|
 | [Checkout-Page](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/checkout-page/index.html) | Bootstrap | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/checkout-page) |
 | [Boostrap Page-Gym](https://sedadiriker.github.io/Clarusway-BootCamp-/HTML-CSS/gym-boostrap-page/) | Boostrap | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/HTML-CSS/gym-boostrap-page)   |
+| [Trt-Haber-Clone](https://sedadiriker.github.io/Clarusway-BootCamp-/HTML-CSS/trt-clone/) | HTML-CSS-Boostrap | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/HTML-CSS/trt-clone)   |
