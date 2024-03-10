@@ -33,6 +33,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
 | [Crypto-Coin-App](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/Crypto-Coin-App/) | Bootstrap,Vanilla JavaScript,SweetAlert2,API,Async,Await,CSS3 | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/Crypto-Coin-App) |
+| [Weather-App](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/haftal%C4%B1k-hava-durumu-app/) | Bootstrap,Vanilla JavaScript,SweetAlert2,API,Async,Await,CSS3 | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/haftal%C4%B1k-hava-durumu-app) |
 | [Checkout-Page](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/checkout-page/index.html) | Bootstrap | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/checkout-page) |
 | [Boostrap Page-Gym](https://sedadiriker.github.io/Clarusway-BootCamp-/HTML-CSS/gym-boostrap-page/) | Boostrap | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/HTML-CSS/gym-boostrap-page)   |
 | [Trt-Haber-Clone](https://sedadiriker.github.io/Clarusway-BootCamp-/HTML-CSS/trt-clone/) | HTML-CSS-Boostrap | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/HTML-CSS/trt-clone)   |
