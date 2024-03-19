@@ -41,27 +41,3 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 | [Trt-Haber-Clone](https://sedadiriker.github.io/Clarusway-BootCamp-/HTML-CSS/trt-clone/) | CSS3-Boostrap | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/HTML-CSS/trt-clone)   |
 
 
-## ***My projects***
-
-<table style="background-color:#f0f0f0;">
-<tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /><br>React</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" /><br>Spring</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" /><br>Node.js</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" /><br>Express</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40" /><br>Java</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /><br>JavaScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" alt="C++" width="40" /><br>C++</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" /><br>Python</td>
-</tr>
-<tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" width="40" /><br>PHP</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" /><br>R</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width="40" /><br>MySQL</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" /><br>MongoDB</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" /><br>Firebase</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" /><br>SQLite</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" /><br>Bootstrap</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" /><br>Android</td>
-</tr>
-</table>
