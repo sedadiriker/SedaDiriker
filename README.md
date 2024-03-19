@@ -43,7 +43,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 ## ***My projects***
 
-<table>
+<table style="background-color:#f0f0f0;">
 <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /><br>React</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" /><br>Spring</td>
