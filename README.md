@@ -39,10 +39,6 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 <hr>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sedadiriker)
-
-<hr>
-
 <h3 align="center">My Projects </h3>
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
@@ -55,4 +51,9 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 | [Boostrap Page-Gym](https://sedadiriker.github.io/Clarusway-BootCamp-/HTML-CSS/gym-boostrap-page/) | Boostrap, CSS3 | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/HTML-CSS/gym-boostrap-page)   |
 | [Trt-Haber-Clone](https://sedadiriker.github.io/Clarusway-BootCamp-/HTML-CSS/trt-clone/) | CSS3, Boostrap | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/HTML-CSS/trt-clone)   |
 
+<hr>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sedadiriker)
+
+<hr>
 
