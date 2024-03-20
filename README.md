@@ -5,7 +5,7 @@
 
 I'm Seda Diriker, a passionate full stack developer  💻.
 
-- :seedling: I’m currently learning **HTML,CSS,JavaScript,Python,Bootstrap,Sass,Node.js,MongoDB**
+- :seedling: I’m currently learning **HTML,CSS,JavaScript,Bootstrap,Sass,Node.js,React**
 - :seedling: I’m currently learning about Deep Learning. <!-- - :computer: Most used line of code `git commit -m " "`.-->
 - :speech_balloon: Ask me about anything.
 
