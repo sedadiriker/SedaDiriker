@@ -40,6 +40,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 <hr>
 
 <h3 align="center">My Projects </h3>
+<h3 align="center">![HTML5 Badge](https://img.shields.io/badge/html5-%230177B5.svg?style=for-the-badge&logo=html5&logoColor=white) </h3>
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
