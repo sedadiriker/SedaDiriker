@@ -19,24 +19,24 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 ### 🛠 &nbsp; Tech Stack
 
-[![HTML5 Badge](https://img.shields.io/badge/html5-%230177B5.svg?style=for-the-badge&logo=html5&logoColor=white)]
-![CSS Badge](https://img.shields.io/badge/css-%230000FF.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/javascript-%230000FF.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![React Badge](https://img.shields.io/badge/react-%230000FF.svg?style=for-the-badge&logo=react&logoColor=white)
-![Firebase Badge](https://img.shields.io/badge/firebase-%230000FF.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%230000FF.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass Badge](https://img.shields.io/badge/sass-%230000FF.svg?style=for-the-badge&logo=sass&logoColor=white)
-![Postman Badge](https://img.shields.io/badge/postman-%230000FF.svg?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Badge](https://img.shields.io/badge/github-%230000FF.svg?style=for-the-badge&logo=github&logoColor=white)
-[![TypeScript Badge](https://img.shields.io/badge/typescript-%230000FF.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://your-typescript-link-here)
-[![Python Badge](https://img.shields.io/badge/python-%230000FF.svg?style=for-the-badge&logo=python&logoColor=white)](https://your-python-link-here)
-[![Linux Badge](https://img.shields.io/badge/linux-%230000FF.svg?style=for-the-badge&logo=linux&logoColor=white)]
-[![Git Badge](https://img.shields.io/badge/git-%230000FF.svg?style=for-the-badge&logo=git&logoColor=white)](https://your-git-link-here)
-[![Next.js Badge](https://img.shields.io/badge/Next.js-%230000FF.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://your-next-js-link-here)
-[![Node.js Badge](https://img.shields.io/badge/Node.js-%230000FF.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js Badge](https://img.shields.io/badge/Express.js-%230000FF.svg?style=for-the-badge)](https://expressjs.com/)
-[![VSCode Badge](https://img.shields.io/badge/VS_Code-%230000FF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Netlify Badge](https://img.shields.io/badge/Netlify-%230000FF.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+![HTML5 Badge](https://img.shields.io/badge/html5-%230177B5.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/css-%230177B5.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/javascript-%230177B5.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![React Badge](https://img.shields.io/badge/react-%230177B5.svg?style=for-the-badge&logo=react&logoColor=white)
+![Firebase Badge](https://img.shields.io/badge/firebase-%230177B5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%230177B5.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass Badge](https://img.shields.io/badge/sass-%230177B5.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Postman Badge](https://img.shields.io/badge/postman-%230177B5.svg?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/github-%230177B5.svg?style=for-the-badge&logo=github&logoColor=white)
+[![TypeScript Badge](https://img.shields.io/badge/typescript-%230177B5.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://your-typescript-link-here)
+[![Python Badge](https://img.shields.io/badge/python-%230177B5.svg?style=for-the-badge&logo=python&logoColor=white)](https://your-python-link-here)
+![Linux Badge](https://img.shields.io/badge/linux-%230177B5.svg?style=for-the-badge&logo=linux&logoColor=white)
+[![Git Badge](https://img.shields.io/badge/git-%230177B5.svg?style=for-the-badge&logo=git&logoColor=white)](https://your-git-link-here)
+[![Next.js Badge](https://img.shields.io/badge/Next.js-%230177B5.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://your-next-js-link-here)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-%230177B5.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-%230177B5.svg?style=for-the-badge)](https://expressjs.com/)
+[![VSCode Badge](https://img.shields.io/badge/VS_Code-%230177B5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Netlify Badge](https://img.shields.io/badge/Netlify-%230177B5.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 <hr><hr>
 
