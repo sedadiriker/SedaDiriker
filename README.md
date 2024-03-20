@@ -19,7 +19,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 ### 🛠 &nbsp; Tech Stack
 
-[![HTML5 Badge](https://img.shields.io/badge/html5-%230000FF.svg?style=for-the-badge&logo=html5&logoColor=white)]
+[![HTML5 Badge](https://img.shields.io/badge/html5-%230177B5.svg?style=for-the-badge&logo=html5&logoColor=white)]
 ![CSS Badge](https://img.shields.io/badge/css-%230000FF.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/javascript-%230000FF.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/react-%230000FF.svg?style=for-the-badge&logo=react&logoColor=white)
