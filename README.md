@@ -16,6 +16,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" >](https://medium.com/@seda.diriker)
 
 <hr>
+<h1 align="center">🛠 Tech Stack </h1>
 
 ### 🛠 &nbsp; Tech Stack
 
@@ -38,7 +39,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 [![VSCode Badge](https://img.shields.io/badge/VS_Code-%230177B5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Netlify Badge](https://img.shields.io/badge/Netlify-%230177B5.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
-<hr><hr>
+<hr>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sedadiriker)
 
