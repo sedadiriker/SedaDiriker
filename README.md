@@ -32,7 +32,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 ## My projects
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
-| [Crypto-Coin-App](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/Crypto-Coin-App/) | Bootstrap, Vanilla JavaScript, SweetAlert2, API, Async, Await, CSS3 | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/Crypto-Coin-App)   |
+| [Crypto-Coin-App](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/Crypto-Coin-App/) | Bootstrap, Vanilla JavaScript, SweetAlert2, API, Async, Await, CSS3    | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/Crypto-Coin-App)   |
 | [Country-Info-Project](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/country-info-project/) | Bootstrap, Vanilla JavaScript, API, Async, Await, CSS3 | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/country-info-project)   |
 | [Fenerium-Online-Shop](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/Fenerium-Online-Shop/) | Bootstrap, Vanilla JavaScript, CSS3, localstorage | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/Fenerium-Online-Shop)   |
 | [Weather-App](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/haftal%C4%B1k-hava-durumu-app/) | Bootstrap, Vanilla JavaScript, SweetAlert2, API, Async, Await,  CSS3 | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/haftal%C4%B1k-hava-durumu-app)   |
