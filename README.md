@@ -16,9 +16,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" >](https://medium.com/@seda.diriker)
 
 <hr>
-<h1 align="center">🛠 Tech Stack </h1>
-
-### 🛠 &nbsp; Tech Stack
+<h3 align="center">🛠 Tech Stack </h3>
 
 ![HTML5 Badge](https://img.shields.io/badge/html5-%230177B5.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/css-%230177B5.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,7 +43,8 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 <hr>
 
-## My projects
+<h3 align="center">My Projects </h3>
+
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
 | [Crypto-Coin-App](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/Crypto-Coin-App/) | Bootstrap, Vanilla JavaScript, SweetAlert2, API, Async, Await, CSS3    | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/Crypto-Coin-App)   |
