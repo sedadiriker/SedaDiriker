@@ -16,7 +16,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" >](https://medium.com/@seda.diriker)
 
 <hr>
-<h3 align="center">🛠 Tech Stack </h3>
+<h2 align="center">🛠 Tech Stack </h2>
 
 ![HTML5 Badge](https://img.shields.io/badge/html5-%23FEB32C.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/css-%23FEB32C.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,7 +39,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 <hr>
 
-<h3 align="center">My Projects </h3>
+<h2 align="center">My Projects </h2>
 
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
