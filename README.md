@@ -6,7 +6,7 @@
 I'm Seda Diriker, a passionate full stack developer  💻.
 
 - :seedling: I’m currently learning **HTML,CSS,JavaScript,Bootstrap,Sass,Node.js,React**
-- :seedling: I’m currently learning about Deep Learning. <!-- - :computer: Most used line of code `git commit -m " "`.-->
+- :seedling: I’m currently learning about Deep Learning. <!- - :computer: Most used line of code `git commit -m " "`.-->
 - :speech_balloon: Ask me about anything.
 
 🤝 &nbsp; Connect with Me
@@ -44,17 +44,17 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
-| [Comments](https://coommentss.netlify.app/) | React - Module CSS - SASS -  | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/REACT/comments)   |
-| [Image-Gallery](https://65fafbfaee024d0081fa5c9f--imagee-galleryy.netlify.app/) | React -- CSS3  | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/REACT/image-gallery)   |
-| [Shopping-App](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/NODEJS/Shopping-App/dist/) | Vanilla Javascript -- Bootstrap -- Axios - Vite - NodeJS --localstorage| [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/NODEJS/Shopping-App/dist)   |
-| [Crypto-Coin-App](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/Crypto-Coin-App/) | Bootstrap -- Vanilla JavaScript -- SweetAlert2 -- API -- Async -- Await -- CSS3    | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/Crypto-Coin-App)   |
-| [Country-Info-Project](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/country-info-project/) | Bootstrap -- Vanilla JavaScript -- API -- Async -- Await -- CSS3 | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/country-info-project)   |
-| [Fenerium-Online-Shop](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/Fenerium-Online-Shop/) | Bootstrap -- Vanilla JavaScript -- CSS3 -- localstorage | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/Fenerium-Online-Shop)   |
-| [Random-User](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/Random-User-Data-Project//) | Bootstrap -- Vanilla JavaScript -- Fetch API -- Async -- Await -- CSS3 | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/Random-User-Data-Project)   |
-| [Weather-App](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/haftal%C4%B1k-hava-durumu-app/) | Bootstrap -- Vanilla JavaScript -- SweetAlert2 -- API -- Async -- Await -- CSS3 | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/haftal%C4%B1k-hava-durumu-app)   |
+| [Comments](https://coommentss.netlify.app/) | React - Module CSS - SASS | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/REACT/comments)   |
+| [Image-Gallery](https://65fafbfaee024d0081fa5c9f--imagee-galleryy.netlify.app/) | React - CSS3  | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/REACT/image-gallery)   |
+| [Shopping-App](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/NODEJS/Shopping-App/dist/) | Vanilla Javascript - Bootstrap - Axios - Vite - NodeJS --localstorage| [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/NODEJS/Shopping-App/dist)   |
+| [Crypto-Coin-App](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/Crypto-Coin-App/) | Bootstrap - Vanilla JavaScript - SweetAlert2 - API - Async - Await - CSS3    | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/Crypto-Coin-App)   |
+| [Country-Info-Project](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/country-info-project/) | Bootstrap - Vanilla JavaScript - API - Async - Await - CSS3 | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/country-info-project)   |
+| [Fenerium-Online-Shop](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/Fenerium-Online-Shop/) | Bootstrap - Vanilla JavaScript - CSS3 - localstorage | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/Fenerium-Online-Shop)   |
+| [Random-User](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/Random-User-Data-Project//) | Bootstrap - Vanilla JavaScript - Fetch API - Async - Await - CSS3 | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/Random-User-Data-Project)   |
+| [Weather-App](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/haftal%C4%B1k-hava-durumu-app/) | Bootstrap - Vanilla JavaScript - SweetAlert2 - API - Async - Await - CSS3 | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/haftal%C4%B1k-hava-durumu-app)   |
 | [Checkout-Page](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/checkout-page/index.html) | Bootstrap | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/checkout-page)   |
-| [Boostrap Page-Gym](https://sedadiriker.github.io/Clarusway-BootCamp-/HTML-CSS/gym-boostrap-page/) | Boostrap -- CSS3 | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/HTML-CSS/gym-boostrap-page)   |
-| [Trt-Haber-Clone](https://sedadiriker.github.io/Clarusway-BootCamp-/HTML-CSS/trt-clone/) | CSS3 -- Boostrap | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/HTML-CSS/trt-clone)   |
+| [Boostrap Page-Gym](https://sedadiriker.github.io/Clarusway-BootCamp-/HTML-CSS/gym-boostrap-page/) | Boostrap - CSS3 | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/HTML-CSS/gym-boostrap-page)   |
+| [Trt-Haber-Clone](https://sedadiriker.github.io/Clarusway-BootCamp-/HTML-CSS/trt-clone/) | CSS3 - Boostrap | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/HTML-CSS/trt-clone)   |
 
 <hr>
 
