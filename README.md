@@ -44,7 +44,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
-| [Interactive-Product-List](https://product-listss.netlify.app/) | React - Bootstrap - SASS - UseState Hook | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/REACT/comments)   |
+| [Interactive-Product-List](https://product-listss.netlify.app/) | React - Bootstrap - SASS - UseState Hook | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/REACT/Interactive-Product-List)   |
 | [Comments](https://coommentss.netlify.app/) | React - Module CSS - SASS | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/REACT/comments)   |
 | [Image-Gallery](https://65fafbfaee024d0081fa5c9f--imagee-galleryy.netlify.app/) | React - CSS3  | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/REACT/image-gallery)   |
 | [Shopping-App](https://sedadiriker.github.io/Clarusway-BootCamp-/JAVASCR%C4%B0PT/NODEJS/Shopping-App/dist/) | Vanilla Javascript - Bootstrap - Axios - Vite - NodeJS - localstorage| [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/JAVASCR%C4%B0PT/NODEJS/Shopping-App/dist)   |
