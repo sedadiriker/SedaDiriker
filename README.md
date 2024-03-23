@@ -61,5 +61,5 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sedadiriker)
 
-<hr>
+<hr><hr>
 
