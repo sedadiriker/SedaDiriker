@@ -26,7 +26,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 ![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%23FADD92.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass Badge](https://img.shields.io/badge/sass-%23FADD92.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/postman-%23FADD92.svg?style=for-the-badge&logo=postman&logoColor=white)
-![React Bootstrap Badge](https://img.shields.io/badge/react-%23FADD92.svg?style=for-the-badge&logo=react&logoColor=white)
+![React Bootstrap Badge](https://img.shields.io/badge/react_bootstrap-%23FED794.svg?style=for-the-badge&logo=react&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/github-%23FADD92.svg?style=for-the-badge&logo=github&logoColor=white)
 [![TypeScript Badge](https://img.shields.io/badge/typescript-%23FADD92.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://your-typescript-link-here)
 [![Python Badge](https://img.shields.io/badge/python-%23FADD92.svg?style=for-the-badge&logo=python&logoColor=white)](https://your-python-link-here)
