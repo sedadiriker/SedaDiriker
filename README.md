@@ -45,10 +45,10 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
-| [Hogwarts-Page](https://product-listss.netlify.app/) | React - useState - useEffect - useRef | [Repo Link](https://github.com/sedadiriker/Hogwarts)   |
-| [NBA-Legends-App](https://product-listss.netlify.app/) | React - useState - useEffect - useRef | [Repo Link](https://github.com/sedadiriker/NBA-Legend-App)   |
-| [Reminder-App](https://product-listss.netlify.app/) | React - useState  - Modul CSS - SCSS | [Repo Link](https://github.com/sedadiriker/Reminder-App)   |
-| [Counter-App](https://product-listss.netlify.app/) | React - useState | [Repo Link](https://github.com/sedadiriker/Counter-App)   |
+| [Hogwarts-Page](https://hogwarts-sd.netlify.app/) | React - useState - useEffect - useRef | [Repo Link](https://github.com/sedadiriker/Hogwarts)   |
+| [NBA-Legends-App](https://nba-legendds.netlify.app/) | React - useState - useEffect - useRef | [Repo Link](https://github.com/sedadiriker/NBA-Legend-App)   |
+| [Reminder-App](https://reminder-app-sd.netlify.app/) | React - useState  - Modul CSS - SCSS | [Repo Link](https://github.com/sedadiriker/Reminder-App)   |
+| [Counter-App](https://counter-app-sd.netlify.app/) | React - useState | [Repo Link](https://github.com/sedadiriker/Counter-App)   |
 | [Interactive-Product-List](https://product-listss.netlify.app/) | React - Bootstrap - SASS - UseState Hook | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/REACT/Interactive-Product-List)   |
 | [Comments](https://coommentss.netlify.app/) | React - Module CSS - SASS | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/REACT/comments)   |
 | [Image-Gallery](https://65fafbfaee024d0081fa5c9f--imagee-galleryy.netlify.app/) | React - CSS3  | [Repo Link](https://github.com/sedadiriker/Clarusway-BootCamp-/tree/main/REACT/image-gallery)   |
