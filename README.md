@@ -45,6 +45,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
+| [Employee-List](https://employee-list-app-sd.netlify.app/) | React - useState - React-Bootstrap - SASS | [Repo Link](https://github.com/sedadiriker/Employee-List-App)   |
 | [Hogwarts-Page](https://hogwarts-sd.netlify.app/) | React - useState - useEffect - useRef | [Repo Link](https://github.com/sedadiriker/Hogwarts)   |
 | [NBA-Legends-App](https://nba-legendds.netlify.app/) | React - useState - useEffect - useRef | [Repo Link](https://github.com/sedadiriker/NBA-Legend-App)   |
 | [Reminder-App](https://reminder-app-sd.netlify.app/) | React - useState  - Modul CSS - SCSS | [Repo Link](https://github.com/sedadiriker/Reminder-App)   |
