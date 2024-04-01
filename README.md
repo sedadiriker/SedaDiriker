@@ -45,6 +45,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
+| [Puzzle Accord](https://puzzle-accord.netlify.app/) | React - useState - Module CSS | [Repo Link](https://github.com/sedadiriker/Puzzle-Accord)   |
 | [Appointment App](https://appointment-app-sd.netlify.app/) | React - useState - useEffect - React-Bootstrap - Bootstrap - Module CSS - SweetAlert2 - localStorage | [Repo Link](https://github.com/sedadiriker/Appooitment-App)   |
 | [Employee-List](https://employee-list-app-sd.netlify.app/) | React - useState - React-Bootstrap - SASS | [Repo Link](https://github.com/sedadiriker/Employee-List-App)   |
 | [Hogwarts-Page](https://hogwarts-sd.netlify.app/) | React - useState - useEffect - useRef | [Repo Link](https://github.com/sedadiriker/Hogwarts)   |
