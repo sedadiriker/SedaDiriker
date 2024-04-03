@@ -45,6 +45,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
+| [To Do App](https://sd-todo-app.netlify.app/) | React - useState | [Repo Link](https://github.com/sedadiriker/ToDo-App) 
 | [Cinema Reservation App](https://cinema-reservation-app.netlify.app/) | React - useState - Module CSS - React-Bootstrap - Bootstrap - Lifting State Up| [Repo Link](https://github.com/sedadiriker/Puzzle-Accord) 
 | [Puzzle Accord](https://puzzle-accord.netlify.app/) | React - useState - Module CSS | [Repo Link](https://github.com/sedadiriker/Puzzle-Accord)   |
 | [Appointment App](https://appointment-app-sd.netlify.app/) | React - useState - useEffect - React-Bootstrap - Bootstrap - Module CSS - SweetAlert2 - localStorage | [Repo Link](https://github.com/sedadiriker/Appooitment-App)   |
