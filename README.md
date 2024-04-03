@@ -45,9 +45,10 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
+| [Cinema Reservation App](https://cinema-reservation-app.netlify.app/) | React - useState - Module CSS - React-Bootstrap - Bootstrap - Lifting State Up| [Repo Link](https://github.com/sedadiriker/Puzzle-Accord) 
 | [Puzzle Accord](https://puzzle-accord.netlify.app/) | React - useState - Module CSS | [Repo Link](https://github.com/sedadiriker/Puzzle-Accord)   |
 | [Appointment App](https://appointment-app-sd.netlify.app/) | React - useState - useEffect - React-Bootstrap - Bootstrap - Module CSS - SweetAlert2 - localStorage | [Repo Link](https://github.com/sedadiriker/Appooitment-App)   |
-| [Employee-List](https://employee-list-app-sd.netlify.app/) | React - useState - React-Bootstrap - SASS | [Repo Link](https://github.com/sedadiriker/Employee-List-App)   |
+| [Employee-List](https://employee-list-app-sd.netlify.app/) | React - useState - React-Bootstrap - Bootstrap - SASS | [Repo Link](https://github.com/sedadiriker/Employee-List-App)   |
 | [Hogwarts-Page](https://hogwarts-sd.netlify.app/) | React - useState - useEffect - useRef | [Repo Link](https://github.com/sedadiriker/Hogwarts)   |
 | [NBA-Legends-App](https://nba-legendds.netlify.app/) | React - useState - useEffect - useRef | [Repo Link](https://github.com/sedadiriker/NBA-Legend-App)   |
 | [Reminder-App](https://reminder-app-sd.netlify.app/) | React - useState  - Modul CSS - SCSS | [Repo Link](https://github.com/sedadiriker/Reminder-App)   |
