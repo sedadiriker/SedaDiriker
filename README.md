@@ -45,7 +45,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
-| [TecnoStore](https://main--tecnostore-sd.netlify.app/) | React - useState - useEffect - usNavigation - async - await - axios - CRUD - MockApi - react-router | [Repo Link](https://github.com/sedadiriker/TecnoStore)
+| [TecnoStore](https://main--tecnostore-sd.netlify.app/) | React - useState - useEffect - usNavigation - async - await - axios - CRUD - MockApi - react-router - react-icons | [Repo Link](https://github.com/sedadiriker/TecnoStore)
 | [Food List](https://food-list-sd.netlify.app/) | React - useState - Lifting-state-up| [Repo Link](https://github.com/sedadiriker/Food-List) 
 | [Random User with React](https://random-user-sd.netlify.app/) | React - useState - useEffect - Axios - Async - Await - SweetAlert2 | [Repo Link](https://github.com/sedadiriker/Random-User-with-React)
 | [To Do App](https://sd-todo-app.netlify.app/) | React - useState | [Repo Link](https://github.com/sedadiriker/ToDo-App ) 
