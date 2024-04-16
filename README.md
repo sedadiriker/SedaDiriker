@@ -45,6 +45,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
+| [Frida-react-router](https://frida-react-router.netlify.app/) | React - useState - useEffect - SASS - react-router - react-icons | [Repo Link](https://github.com/sedadiriker/Frida-React-Router)
 | [DevLink-react-router](https://dev-link-sd.netlify.app/) | React - useState - useEffect - async - await - axios - react-router - react-icons - react-bootstrap - bootstrap - sweetalert2 | [Repo Link](https://github.com/sedadiriker/DevLink-Router)
 | [Search-Pagination](https://search-pagination-sd.netlify.app/) | React - useState - useLocation - async - await - axios - react-router - react-icons - react-bootstrap - bootstrap - sweetalert2 | [Repo Link](https://github.com/sedadiriker/Search-Pagination)
 | [TecnoStore](https://main--tecnostore-sd.netlify.app/) | React - useState - useEffect - useNavigation - async - await - axios - CRUD - MockApi - react-router - react-icons | [Repo Link](https://github.com/sedadiriker/TecnoStore)
