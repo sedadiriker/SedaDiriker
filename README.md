@@ -46,7 +46,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
-| [Deniz Shopping](https://deniz-shopping.netlify.app/) | React - Redux - axios - async/await - Material-UI - react-router  | [Repo Link](https://github.com/sedadiriker/Deniz-Shopping)
+| [Deniz Shopping](https://deniz-shopping.netlify.app/) | React - Redux - axios - async/await - Material-UI - react-router - React Hooks  | [Repo Link](https://github.com/sedadiriker/Deniz-Shopping)
 | [Foodie Recipes Hub](https://recipe-app-sd.netlify.app/) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons | [Repo Link](https://github.com/sedadiriker/FoodieRecipesHub)
 | [Shopping-Store](https://shopping-store-sd.netlify.app/) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - Vanillia Js - react-router - Sweeatlaert2 | [Repo Link](https://github.com/sedadiriker/shopping-store)
 | [Frida-react-router](https://frida-react-router.netlify.app/) | React - useState - useEffect - SASS - react-router - react-icons | [Repo Link](https://github.com/sedadiriker/Frida-React-Router)
