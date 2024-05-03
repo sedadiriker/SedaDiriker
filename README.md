@@ -46,6 +46,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
+| [The News](thenews-redux.netlify.app/) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks  | [Repo Link](https://github.com/sedadiriker/Redux-Toolkit-TheNews)
 | [Deniz Shopping](https://deniz-shopping.netlify.app/) | React - Redux - axios - async/await - Material-UI - react-router - React Hooks  | [Repo Link](https://github.com/sedadiriker/Deniz-Shopping)
 | [Foodie Recipes Hub](https://recipe-app-sd.netlify.app/) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons | [Repo Link](https://github.com/sedadiriker/FoodieRecipesHub)
 | [Shopping-Store](https://shopping-store-sd.netlify.app/) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - Vanillia Js - react-router - Sweeatlaert2 | [Repo Link](https://github.com/sedadiriker/shopping-store)
