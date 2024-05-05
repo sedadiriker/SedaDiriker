@@ -46,6 +46,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
+| [Music Compass](https://music-compass.netlify.app/) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks - Formik - Yup - Material-UI - react-toastify - Firebase | [Repo Link](https://github.com/sedadiriker/TheMusicCompass)
 | [The News](https://thenews-redux.netlify.app/) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks  | [Repo Link](https://github.com/sedadiriker/Redux-Toolkit-TheNews)
 | [Deniz Shopping](https://deniz-shopping.netlify.app/) | React - Redux - axios - async/await - Material-UI - react-router - React Hooks  | [Repo Link](https://github.com/sedadiriker/Deniz-Shopping)
 | [Foodie Recipes Hub](https://recipe-app-sd.netlify.app/) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons | [Repo Link](https://github.com/sedadiriker/FoodieRecipesHub)
