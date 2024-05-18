@@ -46,7 +46,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 
 | Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
-| [Stock-Control-App](stock-control-app-two.vercel.app) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS  - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI | [Repo Link](https://github.com/sedadiriker/Stock-Control-App)
+| [Stock-Control-App](https://stock-control-app-two.vercel.app/) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS  - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI | [Repo Link](https://github.com/sedadiriker/Stock-Control-App)
 | [Music Compass](https://music-compass.netlify.app/) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks - Formik - Yup - Material-UI - react-toastify - Firebase | [Repo Link](https://github.com/sedadiriker/TheMusicCompass)
 | [The News](https://thenews-redux.netlify.app/) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks  | [Repo Link](https://github.com/sedadiriker/Redux-Toolkit-TheNews)
 | [Deniz Shopping](https://deniz-shopping.netlify.app/) | React - Redux - axios - async/await - Material-UI - react-router - React Hooks  | [Repo Link](https://github.com/sedadiriker/Deniz-Shopping)
