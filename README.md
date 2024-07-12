@@ -44,7 +44,7 @@ I'm Seda Diriker, a passionate full stack developer  💻.
 <h2 align="center">My Projects </h2>
 
 
-| Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
+| Project Live Linkk                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
 | [Stock-Control-App](https://stock-control-app-two.vercel.app/) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS  - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI | [Repo Link](https://github.com/sedadiriker/Stock-Control-App)
 | [Music Compass](https://music-compass.netlify.app/) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks - Formik - Yup - Material-UI - react-toastify - Firebase | [Repo Link](https://github.com/sedadiriker/TheMusicCompass)
