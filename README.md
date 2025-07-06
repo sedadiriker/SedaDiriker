@@ -3,7 +3,7 @@
  <p/>
 <h1 align="center"> Hi! I'm Seda <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-I'm Seda Diriker, a passionate full stack developer  💻.
+🎯 Passionate **Full Stack Developer** based in Turkey.  
 
 - :seedling: I’m currently learning **HTML,CSS,JavaScript,Bootstrap,Sass,Node.js,React**
 - :seedling: I’m currently learning about Deep Learning. <!- - :computer: Most used line of code `git commit -m " "`.-->
