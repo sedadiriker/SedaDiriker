@@ -15,30 +15,54 @@
 [<img src="https://img.shields.io/badge/Medium-%23FADD92.svg?&style=for-the-badge&logo=medium&logoColor=white" >](https://medium.com/@seda.diriker)
 
 <hr>
-<h2 align="center">🛠 Tech Stack </h2>
+<h2 align="center">🛠 Tech Stack</h2>
+<p align="center">
+  
+<!-- Web -->
+<img src="https://img.shields.io/badge/html5-%23FADD92.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css-%23FADD92.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/sass-%23FADD92.svg?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23FADD92.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/typescript-%23FADD92.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/bootstrap-%23FADD92.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwind_css-%23FED794.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/react_bootstrap-%23FED794.svg?style=for-the-badge&logo=react&logoColor=white" />
 
-![HTML5 Badge](https://img.shields.io/badge/html5-%23FADD92.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/css-%23FADD92.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/javascript-%23FADD92.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![React Badge](https://img.shields.io/badge/react-%23FADD92.svg?style=for-the-badge&logo=react&logoColor=white)
-![Firebase Badge](https://img.shields.io/badge/firebase-%23FADD92.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%23FADD92.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass Badge](https://img.shields.io/badge/sass-%23FADD92.svg?style=for-the-badge&logo=sass&logoColor=white)
-![Postman Badge](https://img.shields.io/badge/postman-%23FADD92.svg?style=for-the-badge&logo=postman&logoColor=white)
-![React Bootstrap Badge](https://img.shields.io/badge/react_bootstrap-%23FED794.svg?style=for-the-badge&logo=react&logoColor=white)
-![GitHub Badge](https://img.shields.io/badge/github-%23FADD92.svg?style=for-the-badge&logo=github&logoColor=white)
-[![TypeScript Badge](https://img.shields.io/badge/typescript-%23FADD92.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://your-typescript-link-here)
-[![Python Badge](https://img.shields.io/badge/python-%23FADD92.svg?style=for-the-badge&logo=python&logoColor=white)](https://your-python-link-here)
-![Linux Badge](https://img.shields.io/badge/linux-%23FADD92.svg?style=for-the-badge&logo=linux&logoColor=white)
-[![Git Badge](https://img.shields.io/badge/git-%23FADD92.svg?style=for-the-badge&logo=git&logoColor=white)](https://your-git-link-here)
-[![Next.js Badge](https://img.shields.io/badge/Next.js-%23FADD92.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://your-next-js-link-here)
-[![Node.js Badge](https://img.shields.io/badge/Node.js-%23FADD92.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js Badge](https://img.shields.io/badge/Express.js-%23FADD92.svg?style=for-the-badge)](https://expressjs.com/)
-[![VSCode Badge](https://img.shields.io/badge/VS_Code-%23FADD92.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Netlify Badge](https://img.shields.io/badge/Netlify-%23FADD92.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
-![Tailwind CSS Badge](https://img.shields.io/badge/tailwind_css-%23FED794.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/react-%23FADD92.svg?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/next.js-%23FADD92.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/react_native-%23FADD92.svg?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/expo-%23FADD92.svg?style=for-the-badge&logo=expo&logoColor=white" />
 
+<!-- Backend -->
+<img src="https://img.shields.io/badge/node.js-%23FADD92.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/express.js-%23FADD92.svg?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/django-%23FADD92.svg?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/drf-%23FADD92.svg?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/celery-%23FADD92.svg?style=for-the-badge&logo=celery&logoColor=white" />
+
+<!-- Database & GIS -->
+<img src="https://img.shields.io/badge/postgresql-%23FADD92.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/postgis-%23FADD92.svg?style=for-the-badge&logo=postgis&logoColor=white" />
+<img src="https://img.shields.io/badge/leaflet-%23FADD92.svg?style=for-the-badge&logo=leaflet&logoColor=white" />
+<img src="https://img.shields.io/badge/openlayers-%23FADD92.svg?style=for-the-badge&logo=openlayers&logoColor=white" />
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/git-%23FADD92.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/github-%23FADD92.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/postman-%23FADD92.svg?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/vscode-%23FADD92.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/netlify-%23FADD92.svg?style=for-the-badge&logo=netlify&logoColor=white" />
+
+<!-- Data & ML -->
+<img src="https://img.shields.io/badge/numpy-%23FADD92.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-%23FADD92.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/python-%23FADD92.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/matplotlib-%23FADD92.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
+
+</p>
 <hr>
+
 
 <h2 align="center">My Projects </h2>
 
