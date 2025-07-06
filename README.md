@@ -5,9 +5,8 @@
 
 🎯 Passionate **Full Stack Developer** based in Turkey.  
 
-- :seedling: I’m currently learning **HTML,CSS,JavaScript,Bootstrap,Sass,Node.js,React**
-- :seedling: I’m currently learning about Deep Learning. <!- - :computer: Most used line of code `git commit -m " "`.-->
-- :speech_balloon: Ask me about anything.
+💻 I build modern, user-focused **web and mobile applications**.  
+🚀 Currently focused on **React**, **Node.js**, **Django**, and **Deep Learning**.
 
 🤝 &nbsp; Connect with Me
 
